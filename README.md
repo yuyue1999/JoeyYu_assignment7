@@ -67,7 +67,4 @@ To run this project, you will need to have the following installed:
 
 The project is structured to allow easy modularization. You can extend the `lib.rs` file with additional functionality and use the modules in `main.rs`.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
